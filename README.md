@@ -1,4 +1,4 @@
-# Website-Cloning-using-Setoolkit-SMB-Vulnerabilities-using-Enum4Linux-Lab
+# Website Cloning using setoolkit and SMB Vulnerabilities using Enum4Linux Lab
 
 This repository contains documentation for two ethical hacking labs performed in a controlled and authorized lab environment strictly for educational purposes.
 
